@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Haygee2/portfolio/static/css/main.550ad777.css",
+    "main.js": "/Haygee2/portfolio/static/js/main.ab10b00f.js",
+    "static/js/453.1407b060.chunk.js": "/Haygee2/portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/Haygee2/portfolio/index.html",
+    "main.550ad777.css.map": "/Haygee2/portfolio/static/css/main.550ad777.css.map",
+    "main.ab10b00f.js.map": "/Haygee2/portfolio/static/js/main.ab10b00f.js.map",
+    "453.1407b060.chunk.js.map": "/Haygee2/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.550ad777.css",
+    "static/js/main.ab10b00f.js"
+  ]
+}
